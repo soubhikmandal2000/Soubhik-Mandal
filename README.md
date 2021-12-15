@@ -9,7 +9,14 @@
 | Professional Courses Name | Company / Institution  Name |  Issuing Organization | Intership Status | Certificate ID | Certificate URL |
 | ------------------------- | --------------------------- | --------------------- | ---------------- | -------------- | --------------- |
 | Google Data Analytics | Google | Coursera  | Completed| 9XFT3SHUUYHZ | [Click Here](https://www.coursera.org/account/accomplishments/specialization/certificate/9XFT3SHUUYHZ) |
-| Google Project Management | Google | Coursera | Ongoing | Certificate ID | Certificate URL |
+| Google Project Management | Google | Coursera | Ongoing (Completed 3/6) | Certificate ID | Certificate URL |
+#### Google Project Management -
+- [x] Foundations of Project Management
+- [x] Project Initiation: Starting a Successful Project
+- [x] Project Planning: Putting It All Together
+- [ ] Project Execution: Running the Project
+- [ ] Agile Project Management
+- [ ] Capstone: Applying Project Management in the Real World
 # Online Specialization Courses Details
 | Specialization Courses Name | Company / Institution  Name |  Issuing Organization | Intership Status | Certificate ID | Certificate URL |
 | --------------------------- | --------------------------- | --------------------- | ---------------- | -------------- | --------------- |
