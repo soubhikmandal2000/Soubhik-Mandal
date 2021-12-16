@@ -8,8 +8,8 @@
 # Online Professional Courses Details
 | Professional Courses Name | Company / Institution  Name |  Issuing Organization | Intership Status | Certificate ID | Certificate URL |
 | ------------------------- | --------------------------- | --------------------- | ---------------- | -------------- | --------------- |
-| Google Data Analytics | Google | Coursera  | Completed| 9XFT3SHUUYHZ | [Click Here](https://www.coursera.org/account/accomplishments/specialization/certificate/9XFT3SHUUYHZ) |
-| Google Project Management | Google | Coursera | Ongoing (Completed 3/6) | Certificate ID | Certificate URL |
+| Data Analytics | Google | Coursera  | Completed| 9XFT3SHUUYHZ | [Click Here](https://www.coursera.org/account/accomplishments/specialization/certificate/9XFT3SHUUYHZ) |
+| Project Management | Google | Coursera | Ongoing (Completed 3/6) | Certificate ID | Certificate URL |
 #### Google Project Management -
 - [x] Foundations of Project Management
 - [x] Project Initiation: Starting a Successful Project
@@ -21,3 +21,11 @@
 | Specialization Courses Name | Company / Institution  Name |  Issuing Organization | Intership Status | Certificate ID | Certificate URL |
 | --------------------------- | --------------------------- | --------------------- | ---------------- | -------------- | --------------- |
 | Applied Data Science with Python | University of Michigan | Coursera | Completed| LWF2TJ54DLS2 | [Click Here](https://www.coursera.org/account/accomplishments/specialization/certificate/LWF2TJ54DLS2) |
+| Marketing Analytics | Facebook | Coursera | Ongoing | Certificate ID | Certificate URL |
+#### Facebook Marketing Analytics -
+- [ ] Marketing Analytics Foundation
+- [ ] Introduction to Data Analytics
+- [ ] Statistics for Marketing
+- [ ] Data Analytics Methods for Marketing
+- [ ] Marketing Analytics with Facebook
+- [ ] Facebook Marketing Science Certification Exam
