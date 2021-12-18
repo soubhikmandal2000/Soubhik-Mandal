@@ -6,7 +6,7 @@
 | Wix Development - Associate | The Entrepreneurship Network | Forage | Completed | NA | [Click Here](https://drive.google.com/file/d/1DmxTiq7cjUdQPt7a3xWZIvMcSmd9UWui/view) |
 
 # Online Professional Courses Details
-| Professional Courses Name | Company / Institution  Name |  Issuing Organization | Intership Status | Certificate ID | Certificate URL |
+| Professional Courses Name | Company / Institution  Name |  Issuing Organization | Course Status | Certificate ID | Certificate URL |
 | ------------------------- | --------------------------- | --------------------- | ---------------- | -------------- | --------------- |
 | Data Analytics | Google | Coursera  | Completed| 9XFT3SHUUYHZ | [Click Here](https://www.coursera.org/account/accomplishments/specialization/certificate/9XFT3SHUUYHZ) |
 | Project Management | Google | Coursera | Ongoing (Completed 3/6) | Certificate ID | Certificate URL |
@@ -18,7 +18,7 @@
 - [ ] Agile Project Management
 - [ ] Capstone: Applying Project Management in the Real World
 # Online Specialization Courses Details
-| Specialization Courses Name | Company / Institution  Name |  Issuing Organization | Intership Status | Certificate ID | Certificate URL |
+| Specialization Courses Name | Company / Institution  Name |  Issuing Organization | Course Status | Certificate ID | Certificate URL |
 | --------------------------- | --------------------------- | --------------------- | ---------------- | -------------- | --------------- |
 | Applied Data Science with Python | University of Michigan | Coursera | Completed| LWF2TJ54DLS2 | [Click Here](https://www.coursera.org/account/accomplishments/specialization/certificate/LWF2TJ54DLS2) |
 | Marketing Analytics | Facebook | Coursera | Ongoing | Certificate ID | Certificate URL |
