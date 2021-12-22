@@ -16,7 +16,7 @@
 - [x] Foundations of Project Management
 - [x] Project Initiation: Starting a Successful Project
 - [x] Project Planning: Putting It All Together
-- [ ] Project Execution: Running the Project
+- [x] Project Execution: Running the Project
 - [ ] Agile Project Management
 - [ ] Capstone: Applying Project Management in the Real World
 # Online Specialization Courses Details
