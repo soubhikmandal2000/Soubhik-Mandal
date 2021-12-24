@@ -12,6 +12,14 @@
 | Marketing Analytics | Facebook | Coursera | Ongoing | Certificate ID | Certificate URL |
 | Project Management | Google | Coursera | Ongoing (Completed 3/6) | Certificate ID | Certificate URL |
 
+#### Facebook Marketing Analytics -
+- [x] Marketing Analytics Foundation
+- [ ] Introduction to Data Analytics
+- [ ] Statistics for Marketing
+- [ ] Data Analytics Methods for Marketing
+- [ ] Marketing Analytics with Facebook
+- [ ] Facebook Marketing Science Certification Exam
+
 #### Google Project Management -
 - [x] Foundations of Project Management
 - [x] Project Initiation: Starting a Successful Project
@@ -24,10 +32,3 @@
 | --------------------------- | --------------------------- | --------------------- | ---------------- | -------------- | --------------- |
 | Applied Data Science with Python | University of Michigan | Coursera | Completed| LWF2TJ54DLS2 | [Click Here](https://www.coursera.org/account/accomplishments/specialization/certificate/LWF2TJ54DLS2) |
 
-#### Facebook Marketing Analytics -
-- [ ] Marketing Analytics Foundation
-- [ ] Introduction to Data Analytics
-- [ ] Statistics for Marketing
-- [ ] Data Analytics Methods for Marketing
-- [ ] Marketing Analytics with Facebook
-- [ ] Facebook Marketing Science Certification Exam
