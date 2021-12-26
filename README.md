@@ -12,6 +12,16 @@
 | Marketing Analytics | Facebook | Coursera | Ongoing (Completed 1/6) | Certificate ID | Certificate URL |
 | Project Management | Google | Coursera | Ongoing (Completed 4/6) | Certificate ID | Certificate URL |
 
+#### Google Data Analytics -
+- [x] Foundations: Data, Data, Everywhere
+- [x] Ask Questions to Make Data-Driven Decisions
+- [x] Prepare Data for Exploration
+- [x] Process Data from Dirty to Clean
+- [x] Analyze Data to Answer Questions
+- [x] Share Data Through the Art of Visualization
+- [x] Data Analysis with R Programming
+- [x] Google Data Analytics Capstone: Complete a Case Study
+
 #### Facebook Marketing Analytics -
 - [x] Marketing Analytics Foundation
 - [ ] Introduction to Data Analytics
@@ -27,8 +37,16 @@
 - [x] Project Execution: Running the Project
 - [ ] Agile Project Management
 - [ ] Capstone: Applying Project Management in the Real World
+
 # Online Specialization Courses Details
 | Specialization Courses Name | Company / Institution  Name |  Issuing Organization | Course Status | Certificate ID | Certificate URL |
 | --------------------------- | --------------------------- | --------------------- | ---------------- | -------------- | --------------- |
 | Applied Data Science with Python | University of Michigan | Coursera | Completed| LWF2TJ54DLS2 | [Click Here](https://www.coursera.org/account/accomplishments/specialization/certificate/LWF2TJ54DLS2) |
+
+#### Applied Data Science with Python -
+- [x] Introduction to Data Science in Python
+- [x] Applied Plotting, Charting & Data Representation in Python
+- [x] Applied Machine Learning in Python
+- [x] Applied Text Mining in Python
+- [x] Applied Social Network Analysis in Python
 
