@@ -13,14 +13,15 @@
 | Project Management | Google | Coursera | Ongoing (Completed 4/6) | Certificate ID | Certificate URL |
 
 #### Google Data Analytics -
-- [x] Foundations: Data, Data, Everywhere
-- [x] Ask Questions to Make Data-Driven Decisions
-- [x] Prepare Data for Exploration
-- [x] Process Data from Dirty to Clean
-- [x] Analyze Data to Answer Questions
-- [x] Share Data Through the Art of Visualization
-- [x] Data Analysis with R Programming
-- [x] Google Data Analytics Capstone: Complete a Case Study
+- [x] Foundations: Data, Data, Everywhere - [Certificate Here](https://www.coursera.org/account/accomplishments/certificate/CQ8B5TEXGW8B)
+- [x] Ask Questions to Make Data-Driven Decisions - [Certificate Here](https://www.coursera.org/account/accomplishments/certificate/JBVWY4RCQ5XC)
+- [x] Prepare Data for Exploration - [Certificate Here](https://www.coursera.org/account/accomplishments/certificate/BY2AUEJ6KKGV)
+- [x] Process Data from Dirty to Clean - [Certificate Here](
+https://www.coursera.org/account/accomplishments/certificate/7SUR7G7ERC35)
+- [x] Analyze Data to Answer Questions - [Certificate Here](https://www.coursera.org/account/accomplishments/certificate/4U7SVUL7EAZN)
+- [x] Share Data Through the Art of Visualization - [Certificate Here](https://www.coursera.org/account/accomplishments/certificate/9GRMS7KSVPYC)
+- [x] Data Analysis with R Programming - [Certificate Here](https://www.coursera.org/account/accomplishments/certificate/CPEWAD5VC5NS)
+- [x] Google Data Analytics Capstone: Complete a Case Study - [Certificate Here](https://www.coursera.org/account/accomplishments/certificate/VDUT57BBNE7M)
 
 #### Facebook Marketing Analytics -
 - [x] Marketing Analytics Foundation
