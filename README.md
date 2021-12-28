@@ -45,9 +45,11 @@ https://www.coursera.org/account/accomplishments/certificate/7SUR7G7ERC35)
 | Applied Data Science with Python | University of Michigan | Coursera | Completed| LWF2TJ54DLS2 | [Click Here](https://www.coursera.org/account/accomplishments/specialization/certificate/LWF2TJ54DLS2) |
 
 #### Applied Data Science with Python -
-- [x] Introduction to Data Science in Python
-- [x] Applied Plotting, Charting & Data Representation in Python
-- [x] Applied Machine Learning in Python
-- [x] Applied Text Mining in Python
-- [x] Applied Social Network Analysis in Python
+- [x] Introduction to Data Science in Python - [Certificate Here](
+https://www.coursera.org/account/accomplishments/certificate/CJ8YK92K8W5M)
+- [x] Applied Plotting, Charting & Data Representation in Python - [Certificate Here](
+https://www.coursera.org/account/accomplishments/certificate/MA9V3QKSK3UK)
+- [x] Applied Machine Learning in Python - [Certificate Here](https://www.coursera.org/account/accomplishments/certificate/2TP27KSWZSGY)
+- [x] Applied Text Mining in Python - [Certificate Here](https://www.coursera.org/account/accomplishments/certificate/CH7U9FBC9RDL)
+- [x] Applied Social Network Analysis in Python - [Certificate Here](https://www.coursera.org/account/accomplishments/certificate/TACB4CJCFFTV)
 
