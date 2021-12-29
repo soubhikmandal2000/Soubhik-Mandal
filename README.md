@@ -24,7 +24,7 @@ https://www.coursera.org/account/accomplishments/certificate/7SUR7G7ERC35)
 - [x] Google Data Analytics Capstone: Complete a Case Study - [Certificate Here](https://www.coursera.org/account/accomplishments/certificate/VDUT57BBNE7M)
 
 #### Facebook Marketing Analytics -
-- [x] Marketing Analytics Foundation
+- [x] Marketing Analytics Foundation - [Certificate Here](https://www.coursera.org/account/accomplishments/certificate/NZXWX85C8Y62)
 - [ ] Introduction to Data Analytics
 - [ ] Statistics for Marketing
 - [ ] Data Analytics Methods for Marketing
