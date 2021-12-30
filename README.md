@@ -9,7 +9,7 @@
 | Professional Courses Name | Company / Institution  Name |  Issuing Organization | Course Status | Certificate ID | Certificate URL |
 | ------------------------- | --------------------------- | --------------------- | ---------------- | -------------- | --------------- |
 | Data Analytics | Google | Coursera  | Completed| 9XFT3SHUUYHZ | [Click Here](https://www.coursera.org/account/accomplishments/specialization/certificate/9XFT3SHUUYHZ) |
-| Marketing Analytics | Facebook | Coursera | Ongoing (Completed 1/6) | Certificate ID | Certificate URL |
+| Marketing Analytics | Facebook | Coursera | Ongoing (Completed 2/6) | Certificate ID | Certificate URL |
 | Project Management | Google | Coursera | Ongoing (Completed 4/6) | Certificate ID | Certificate URL |
 
 #### Google Data Analytics -
@@ -25,7 +25,7 @@ https://www.coursera.org/account/accomplishments/certificate/7SUR7G7ERC35)
 
 #### Facebook Marketing Analytics -
 - [x] Marketing Analytics Foundation - [Certificate Here](https://www.coursera.org/account/accomplishments/certificate/NZXWX85C8Y62)
-- [ ] Introduction to Data Analytics
+- [x] Introduction to Data Analytics
 - [ ] Statistics for Marketing
 - [ ] Data Analytics Methods for Marketing
 - [ ] Marketing Analytics with Facebook
