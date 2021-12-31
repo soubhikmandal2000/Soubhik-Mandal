@@ -32,10 +32,12 @@ https://www.coursera.org/account/accomplishments/certificate/7SUR7G7ERC35)
 - [ ] Facebook Marketing Science Certification Exam
 
 #### Google Project Management -
-- [x] Foundations of Project Management
-- [x] Project Initiation: Starting a Successful Project
-- [x] Project Planning: Putting It All Together
-- [x] Project Execution: Running the Project
+- [x] Foundations of Project Management - [Certificate Here](https://www.coursera.org/account/accomplishments/certificate/6ZN5ZDBLJEAG)
+- [x] Project Initiation: Starting a Successful Project - [Certificate Here](
+https://www.coursera.org/account/accomplishments/certificate/5DZ9HZCRQ4GE)
+- [x] Project Planning: Putting It All Together - [Certificate Here](https://www.coursera.org/account/accomplishments/certificate/FC6NYYF6MQU7)
+- [x] Project Execution: Running the Project - [Certificate Here](
+https://www.coursera.org/account/accomplishments/certificate/C5Q6QT53RXW7)
 - [ ] Agile Project Management
 - [ ] Capstone: Applying Project Management in the Real World
 
