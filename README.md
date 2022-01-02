@@ -10,7 +10,7 @@
 | ------------------------- | --------------------------- | --------------------- | ---------------- | -------------- | --------------- |
 | Data Analytics | Google | Coursera  | Completed| 9XFT3SHUUYHZ | [Click Here](https://www.coursera.org/account/accomplishments/specialization/certificate/9XFT3SHUUYHZ) |
 | Marketing Analytics | Facebook | Coursera | Ongoing (Completed 2/6) | Certificate ID | Certificate URL |
-| Project Management | Google | Coursera | Ongoing (Completed 4/6) | Certificate ID | Certificate URL |
+| Project Management | Google | Coursera | Ongoing (Completed 5/6) | Certificate ID | Certificate URL |
 
 #### Google Data Analytics -
 - [x] Foundations: Data, Data, Everywhere - [Certificate Here](https://www.coursera.org/account/accomplishments/certificate/CQ8B5TEXGW8B)
