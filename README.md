@@ -38,7 +38,8 @@ https://www.coursera.org/account/accomplishments/certificate/5DZ9HZCRQ4GE)
 - [x] Project Planning: Putting It All Together - [Certificate Here](https://www.coursera.org/account/accomplishments/certificate/FC6NYYF6MQU7)
 - [x] Project Execution: Running the Project - [Certificate Here](
 https://www.coursera.org/account/accomplishments/certificate/C5Q6QT53RXW7)
-- [x] Agile Project Management
+- [x] Agile Project Management - [Certificate Here](
+https://www.coursera.org/account/accomplishments/certificate/4FT2T42ED8ZX)
 - [ ] Capstone: Applying Project Management in the Real World
 
 # Online Specialization Courses Details
