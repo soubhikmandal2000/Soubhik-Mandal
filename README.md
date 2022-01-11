@@ -9,7 +9,7 @@
 | Professional Courses Name | Company / Institution  Name |  Issuing Organization | Course Status | Certificate ID | Certificate URL |
 | ------------------------- | --------------------------- | --------------------- | ---------------- | -------------- | --------------- |
 | Data Analytics | Google | Coursera  | Completed| 9XFT3SHUUYHZ | [Click Here](https://www.coursera.org/account/accomplishments/specialization/certificate/9XFT3SHUUYHZ) |
-| Marketing Analytics | Facebook | Coursera | Ongoing (Completed 2/6) | Certificate ID | Certificate URL |
+| Marketing Analytics | Meta | Coursera | Ongoing (Completed 2/6) | Certificate ID | Certificate URL |
 | Project Management | Google | Coursera | Ongoing (Completed 5/6) | Certificate ID | Certificate URL |
 
 #### Google Data Analytics -
