@@ -27,7 +27,8 @@ https://www.coursera.org/account/accomplishments/certificate/7SUR7G7ERC35)
 - [x] Marketing Analytics Foundation - [Certificate Here](https://www.coursera.org/account/accomplishments/certificate/NZXWX85C8Y62)
 - [x] Introduction to Data Analytics - [Certificate Here](https://www.coursera.org/account/accomplishments/certificate/65PPWDUUME3C)
 - [x] Statistics for Marketing
-- [ ] Data Analytics Methods for Marketing
+- [x] Data Analytics Methods for Marketing - [Certificate Here](
+https://www.coursera.org/account/accomplishments/certificate/PVWLSWVGHHM8)
 - [ ] Marketing Analytics with Facebook
 - [ ] Facebook Marketing Science Certification Exam
 
