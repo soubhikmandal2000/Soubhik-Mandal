@@ -57,3 +57,6 @@ https://www.coursera.org/account/accomplishments/certificate/MA9V3QKSK3UK)
 - [x] Applied Text Mining in Python - [Certificate Here](https://www.coursera.org/account/accomplishments/certificate/CH7U9FBC9RDL)
 - [x] Applied Social Network Analysis in Python - [Certificate Here](https://www.coursera.org/account/accomplishments/certificate/TACB4CJCFFTV)
 
+# Online Courses Details
+| Specialization Courses Name | Company / Institution  Name |  Issuing Organization | Course Status | Certificate ID | Certificate URL |
+| --------------------------- | --------------------------- | --------------------- | ---------------- | -------------- | --------------- |
