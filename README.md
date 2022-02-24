@@ -62,3 +62,4 @@ https://www.coursera.org/account/accomplishments/certificate/MA9V3QKSK3UK)
 | --------------------------- | --------------------------- | --------------------- | ---------------- | -------------- | --------------- |
 | Introduction to Data Engineering | IBM | Coursera  | Completed| ZA687ST7TED5 | [Click Here](https://www.coursera.org/account/accomplishments/certificate/ZA687ST7TED5) |
 | Moralities of Everyday Life | Yale University | Coursera  | Completed| P3D9AMVP6AVM | [Click Here](https://www.coursera.org/account/accomplishments/certificate/P3D9AMVP6AVM) |
+| Media ethics & governance | University of Amsterdam | Coursera  | Completed| Q7VNEURGL4U3 | [Click Here](https://www.coursera.org/account/accomplishments/certificate/Q7VNEURGL4U3) |
