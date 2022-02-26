@@ -58,8 +58,9 @@ https://www.coursera.org/account/accomplishments/certificate/MA9V3QKSK3UK)
 - [x] Applied Social Network Analysis in Python - [Certificate Here](https://www.coursera.org/account/accomplishments/certificate/TACB4CJCFFTV)
 
 # Online Courses Details
-| Specialization Courses Name | Company / Institution  Name |  Issuing Organization | Course Status | Certificate ID | Certificate URL |
+| Specialization Courses Name | Company / Institution  Name or Instructor |  Issuing Organization | Course Status | Certificate ID | Certificate URL |
 | --------------------------- | --------------------------- | --------------------- | ---------------- | -------------- | --------------- |
 | Introduction to Data Engineering | IBM | Coursera  | Completed| ZA687ST7TED5 | [Click Here](https://www.coursera.org/account/accomplishments/certificate/ZA687ST7TED5) |
 | Moralities of Everyday Life | Yale University | Coursera  | Completed| P3D9AMVP6AVM | [Click Here](https://www.coursera.org/account/accomplishments/certificate/P3D9AMVP6AVM) |
 | Media ethics & governance | University of Amsterdam | Coursera  | Completed| Q7VNEURGL4U3 | [Click Here](https://www.coursera.org/account/accomplishments/certificate/Q7VNEURGL4U3) |
+| Core Java Made Easy (Covers the latest Java 16) | Bharath Thippireddy | Udemy  | Completed| UC-b3a8e3a0-d550-449a-bce7-d45808a4d7d9 | https://udemy-certificate.s3.amazonaws.com/pdf/UC-b3a8e3a0-d550-449a-bce7-d45808a4d7d9.pdf |
